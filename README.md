@@ -16,6 +16,6 @@ https://replit.com/@dashezup/generate-pyrogram-session-string
 
 ## CREDIT 💕
 ```
-Manjeet
+Rkj
 ```
 
