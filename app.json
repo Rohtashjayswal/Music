@@ -1,8 +1,8 @@
 {
-  "name": "Music Bot",
+  "name": "Rkj Music Bot",
   "description": "Open-Source & Best Music bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/kaal0408/Music",
+  "repository": "https://github.com/Rohtashjayswal/Music",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
